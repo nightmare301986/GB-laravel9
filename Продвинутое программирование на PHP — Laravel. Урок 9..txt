@@ -1,0 +1,6 @@
+Приветствую. Студент Евгений Пахомов.
+Продвинутое программирование на PHP — Laravel
+Урок 6. Работа с формами
+
+Мой репозиторий (github.com):
+https://github.com/nightmare301986/GB-laravel6/tree/main
